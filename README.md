@@ -120,10 +120,7 @@ while True:
 
 ## TIMING DIGAGRAM 
 
-
-UPLOAD YOUR TIMING DIGARAM HERE 
-
-
+![image](https://github.com/user-attachments/assets/004dca93-4ec2-4ec9-9d20-16fb4d4a91e9)
 
 ## RESULTS
 
